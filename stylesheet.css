@@ -92,3 +92,9 @@ footer {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
+
+@media all and (max-width: 670px) {
+    .calculator {
+    width: 100%;
+  }
+}
